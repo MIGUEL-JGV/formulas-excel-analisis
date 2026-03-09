@@ -1,4 +1,3 @@
-```
 1. Clasificación por Nivel de Conocimiento (Café)
 Esta fórmula realiza una búsqueda matricial para identificar el nivel de conocimiento técnico sobre café basándose en un comentario o texto específico.
 Lógica: Busca una lista de términos técnicos (Palabras_clave) dentro de una celda (S2). Si encuentra una coincidencia, devuelve la categoría correspondiente desde el rango categorias_café.
@@ -26,4 +25,3 @@ Selecciona tu lista de palabras clave.
 Ve a la pestaña Fórmulas > Asignar nombre.
 En "Nombre", escribe exactamente: Palabras_clave (o el nombre que corresponda a la fórmula).
 Haz lo mismo con los rangos de categorías.
-```
